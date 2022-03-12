@@ -2,7 +2,6 @@
   "name": "gas1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://giovannialfa.github.io/gaspol",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
@@ -17,8 +16,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
